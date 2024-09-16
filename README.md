@@ -1,7 +1,3 @@
-# 💫 About Me:
-🔭 estou estudando no Senac<br>👯 estou procurando trabalhar com todos<br>🌱 estou aprendendo HTML e CSS
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eduardobassani017) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Eduardo Bassani) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:27342330) 
 
