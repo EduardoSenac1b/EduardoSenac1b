@@ -16,5 +16,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=EduardoSenac1b&icon=5&color=4)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
