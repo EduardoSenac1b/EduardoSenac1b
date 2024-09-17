@@ -15,4 +15,4 @@
 ![](https://github-contributor-stats.vercel.app/api?username=EduardoSenac1b&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=EduardoSenac1b&icon=5&color=4)](https://visitcount.itsvg.in)
+[![][![](https://visitcount.itsvg.in/api?id=EduardoSenac1b&label=Profile%20Views&color=4&icon=6&pretty=true)](https://visitcount.itsvg.in)
